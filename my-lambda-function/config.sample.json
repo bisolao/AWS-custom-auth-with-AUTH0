@@ -1,0 +1,9 @@
+
+const AUTH0_DOMAIN = 'your-auth0-domain';
+const AUTH0_AUDIENCE = 'your-auth0-audience';
+const AUTH0_CLIENT_ID = 'your-auth0-client-id';
+const S3_BUCKET_NAME = 'your-s3-bucket-name';
+const API_GATEWAY_URL = 'your-api-gateway-url';
+const LAMBDA_FUNCTION_ARN = 'your-lambda-function-arn';
+const CLIENT_EMAIL = 'client-email';
+const CLIENT_PASSWORD = 'client-password';

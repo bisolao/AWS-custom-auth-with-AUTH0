@@ -1,0 +1,4 @@
+{
+    "AUTH0_DOMAIN": "https://dev-lmxpjg0gz1s31pr2.us.auth0.com/authorize",
+    "AUTH0_AUDIENCE": "https://ojmv9k56j6.execute-api.eu-north-1.amazonaws.com/s3bucket-stagetest"
+}
